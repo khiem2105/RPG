@@ -1,0 +1,22 @@
+Bonus : de 1 à 20
+	Armes : de 5 à 20 (hautes valeurs pour les armes légendaires)
+	Casques : de 8 (magicien/rogue) à 15
+	Armures : de 8(magicien/rogue) à 20 (plutôt les armures légendaires)
+	Consommables : de 4 à 10
+
+	Basiques : jusqu'à 40%
+	Améliorations intermédiaires : entre 40 et 60%
+	Amélioration poussées : entre 60 et 90%
+	Ultimes : plus de 90%
+	
+	Ce qui donne :
+	Armes :        5	11	14	18,5	20
+	Casques :      8	10,8	12,2	14,3	15
+	Armures :      8	12,8	15,2	18,8	20
+	Consommables : 4	6,4	7,6	9,4	10
+
+Rareté : de 1 à 100
+	Objets basiques : de 1 à 50
+	Objets plus avancés : de 50 à 80
+	Objets de grande amélioration : de 80 à 99
+	Objets de quête : 100 ou plus : n'ont pas vocation à être proposés en vente

@@ -1,0 +1,9 @@
+quest_id;name;type;objective;mobs;object;type_of_reward;reward
+0;Get Worg Skin;0;8;WOLF;103;item;15
+1;Kill Wolves;1;8;WOLF;;money;10
+2;Kill Minautores ;1;8;MINOTAUR;;item;7
+3;Get Minautore Feet;0;8;MINOTAUR;100;item;22
+4;Collect_blacksmith_hammer;2;1;GOBLIN;8;item;30
+5;Get Gobelin Skull;0;8;GOBLIN;102;money;22
+6;Get Skeleton bones;0;8;SKELETON;101;money;36
+7;Get_parchment;3;12;SKELETON;31,32,33,34,35,36,37,38,39,40,31,42;item;16

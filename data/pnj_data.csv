@@ -1,0 +1,83 @@
+level_id;pnj_id;pnj_img;quest_id;before_quest;while_quest;finished_quest
+0;0;"villager_hunting_wolves.png";0;"An adventurer here, what a pleasure! I have a mission for you: I need Worg Skins, so my wife will make coats from them for my family this winter.
+However, I don't even know how to fight against humans, so it would be difficult for me to collect those Skins. Could you do it for me please?
+Don't worry, you will be rewarded: my grandfather died a long time ago, but recently I remembered that he gave me as a legacy this Sun Wand.
+I don't think I will do anything with it, so it is better that if it goes to someone which needs it.";"It is not enough:
+we are eight in the same house, so we need one Skin per person.";"That is perfect: with those Skins, we are ready to
+face winter! Thank you adventurer, you saved us! I give you this object, inherited from my grandfather: 
+I know that you will use it well, and I am sure that grandpa would agree."
+0;1;"young_adventurer.png";1;"Another person ! I'm saved ! Me and my friend are young and unexperimented adventurers.
+Sadly, too much unexperimented : my friend was killed by a pack of Wolves !
+I wished to avenge him, but they are too strong and numerous for me.
+
+
+I don't care about money : I'll offer you everything I obtained in this dungeon.
+Just avenge my friend please !";"You didn't kill all of them: I can always hear them roaring !
+
+I didn't sleep since the day my friend died, because I hear this horrible sound while trying to sleep... They follow me in my nightmares... They are in my head!
+AAAAAAAAAH! *it looks like he has an anxiety attack*";"You did, it's marvellous! For me, this day is when my journey as an adventurer ends:
+I will come back to my parent's farm and I will help them. As I said, I don't care about money: I give you everything we obtained in this dungeon, as a reward.
+I would never thank you as much as I should. If you still want being an adventurer, may the odds be ever in your favor!"
+1;0;"afraid_of_minotaures.jpg";2;"Hero ! I'm glad to see you ! I came here by accident but I cannot leave :
+I'm afraid of Minotaures !
+
+
+Could you kill some of them please?
+It would be easier for me to leave.
+You'll be rewarded of course!";"Please help me! 
+Kill some Minautores so I will be able to move and leave!";"Thank you hero! The area around is now safer!
+Here is your reward: you deserved it!"
+1;1;"wizard.jpg";3;"Greetings, noble fighter ! A client commanded me a potion.
+It is almost up, but I miss one ingredient ! I hoped that you could help me. Don't worry, there is nothing dangerous...
+
+
+I need you to kill Minotaures and bring me back their foots.
+Do you accept ?";"Why are you still there, you lazybones! 
+It's not enough, go back and bring me more!";"Ah, finally you completed your quest! I have enough feet to prepare many potions now.
+Well done, I was sure that you would die! A promise is a promise: your gold account will thank me."
+2;0;"blacksmith.png";4;"Oh, greetings warrior! I have lost my unique hammer, I think I left it in a container, in this dungeon! 
+Can you bring it back to me please?";"I have forgotten to prevent you: I have also lost the key of this container!
+I have seen a Goblin walking with it. Just kill him and you will be able to open the container!";"Thank you foreigner!
+With your help, I found my hammer! In recognition for that, I offer you a hammer!
+*He sees someone else* Hey you there! I have lost my hammer!"
+2;1;"swindler.png";5;"Hello foreigner! Are you interested by a quest? And moreover, by a huge treasure? Let me narrate you a story which happened here.
+Few weeks ago, a king and his father-in-law came here to search a treasure protected by Goblins.
+Nonetheless, as they were going to leave the dungeon, one of them dropped off the bag where the treasure was and he forgot it!
+Sadly, Goblins got back the treasure, so if you want it, you will have to kill them.
+Do you accept?";"You didn't find it? It's not a surprise: 
+the two people I talked you about came back to recover the bag, but neither did they.";"Actually, Goblins did not have the bag: I did. Indeed, I found it by chance, however I could not leave because of the great number of Goblins.
+I needed you to kill them, so I can leave: thank you hero! And, here is the bag: don't forget it!"
+3;0;"bard.jpg";6;"What a nice surprise: an adventurer! You probably don't know who I am: 
+my name is not important, I am only a bard who is not very popular...
+
+*he continues talking during a long time* 
+
+... and I understood that it was because the stories I narrated were not very interesting,
+so I came here hoping to meet a hero and see him while he is fighting. Moreover, I am always looking for having new
+instruments, and I think that some Skeleton bones would be a quite good material for that. So could you bring me back
+some of them please? I will offer you this item I found.";"It is not enough hero: I need more bones.
+My future public want me to innovate !";"That's perfect, I have everything I need. Thank you hero, I knew that I could trust you!
+For your efforts, I want you to take this: it would be more helpful for you than for me.
+
+
+And it's not all: while you were fighting, I wrote my new song! It talks about you, so you will be the first one to hear it:
+*The bard begins singing with his strident voice*"
+3;1;"adventurer.jpg";7;"Hero! I need your help! I came in this dungeon because I was in search of a treasure map: I found a parchment,
+but before I could even see what was written on, I was attacked by wolves! Injuried by them, I was only able to fly,
+but the parchment has been ripped! Please help me, find all pieces of parchment, and I will reward you with this Moon Wand!
+According to what I heard about it, two twin wands were created: the Sun and the Moon ones. Each of them is powerful,
+but when they are gathered, it gives incredible skills to his owner! It can be false of course, but I don't know anything about magic,
+so I cannot say. Are you interested in?";"Please hero, find all the pieces: 
+I came here just to find this map, so help me!";"Unbelievable, you collected all of the pieces! Now let's gather them, so we will be able to read the parchment.
+
+'ine, K g', 'amin, r ha', 'zo, B nk yo', 'Al vin', 'hie pla', 'En tha', 'enj u fo', 'avi', 'ico', 'm, N yed!', 'las ier', 'and X'...
+Give me time please: it is not easy to reassembly the parchment!
+
+*After a few moments....*
+It is done! I can read what is written:
+
+
+...'Enzo, Benjamin, Aline, Khiem, Nicolas and Xavier thank you for having played!'...
+
+
+Well, sadly there is nothing interesting. Thank you anyway: as promised you can have this Moon Wand."
